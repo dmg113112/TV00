@@ -4,19 +4,19 @@ favorite_list = [
     "CCTV-1",
     "CCTV-5",
     "CCTV-5+",
+    "CCTV-13",
     "山东卫视",
+    "广东卫视",
     "山东齐鲁",
-    "湖南卫视",
-    "江苏卫视",
     "浙江卫视",
-    "山东体育",
+    "湖南卫视",
     "翡翠台",
 ]
 open_online_search = True
 favorite_page_num = 5
 default_page_num = 3
 urls_limit = 15
-open_sort = False
+open_sort = True
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
@@ -31,3 +31,5 @@ subscribe_urls = [
 ]
 open_multicast = True
 region_list = ["all"]
+open_proxy = True
+open_driver = False
