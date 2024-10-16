@@ -53,18 +53,6 @@ CCTV-17,http://221.234.25.122:9999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1
 云南卫视,http://123.154.30.252:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
 
-山东频道,#genre#
-山东卫视,http://61.136.67.238:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://39.77.3.5:8989/udp/239.253.254.22:8000
-山东齐鲁,http://39.77.3.5:8989/udp/239.253.254.114:8000
-山东文旅,http://39.77.3.5:8989/udp/239.253.254.160:8000
-山东少儿,http://39.77.3.5:8989/udp/239.253.254.25:8000
-山东农科,http://39.77.3.5:8989/udp/239.253.254.24:8000
-山东生活,http://39.77.3.5:8989/udp/239.253.254.151:8000
-山东综艺,http://39.77.3.5:8989/udp/239.253.254.159:8000
-山东教育,http://39.77.3.5:8989/udp/239.253.254.59:8000
-山东新闻,http://39.77.3.5:8989/udp/239.253.254.23:8000
-
 体育频道,#genre#
 CCTV-5,http://123.154.30.252:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+,http://219.135.208.218:8083/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
