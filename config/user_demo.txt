@@ -54,8 +54,6 @@ CCTV-17,http://221.234.25.122:9999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1
 三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
 
 体育频道,#genre#
-CCTV-5,http://123.154.30.252:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5+,http://219.135.208.218:8083/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://39.77.3.5:8989/udp/239.253.254.22:8000
 五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
