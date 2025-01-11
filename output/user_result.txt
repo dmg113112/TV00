@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-11 06:29:21,url
+2025-01-12 06:27:56,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -226,13 +226,13 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://220.249.114.102:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://59.173.243.210:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-河南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
-河南卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000017925/index.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3$订阅源-IPv6
-河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8$订阅源-IPv6
+河南卫视,http://58.19.38.162:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://114.252.238.87:8000/rtp/239.3.1.27:8128$组播源
 河南卫视,http://60.2.190.206:4000/rtp/239.253.92.137:6144$组播源
 河南卫视,http://123.113.187.204:8000/rtp/239.3.1.27:8128$组播源
-河南卫视,http://121.33.239.242:9901/tsfile/live/0139_1.m3u8$订阅源
+河南卫视,http://221.219.79.161:4000/rtp/239.3.1.27:8128$组播源
+河南卫视,http://111.196.129.152:20000/rtp/239.3.1.27:8128$组播源
+河南卫视,http://123.117.174.237:30000/rtp/239.3.1.27:8128$组播源
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 辽宁卫视,http://220.249.114.102:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -416,13 +416,13 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 贵州卫视,http://220.249.114.102:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 贵州卫视,http://221.233.192.152:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-贵州卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225838/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
-贵州卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226547/index.m3u8$订阅源-IPv6
-贵州卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8$订阅源-IPv6
+贵州卫视,http://58.19.38.162:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 贵州卫视,http://114.252.238.87:8000/rtp/239.3.1.149:8076$组播源
 贵州卫视,http://60.2.190.206:4000/rtp/239.253.92.105:6055$组播源
 贵州卫视,http://123.113.187.204:8000/rtp/239.3.1.149:8076$组播源
-贵州卫视,http://121.33.239.242:9901/tsfile/live/0120_1.m3u8$订阅源
+贵州卫视,http://111.196.129.152:20000/rtp/239.3.1.149:8076$组播源
+贵州卫视,http://221.219.79.161:4000/rtp/239.3.1.149:8076$组播源
+贵州卫视,http://221.222.162.206:8888/rtp/239.3.1.149:8076$组播源
 海南卫视,http://220.249.114.102:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 海南卫视,http://59.173.243.210:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 海南卫视,http://221.219.79.161:4000/rtp/239.3.1.45:8304$组播源
@@ -526,21 +526,24 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA$订阅源
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF$订阅源
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ$订阅源
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$订阅源
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst$订阅源
 
 影视频道,#genre#
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC动作电影,https://pi.0472.org/chc/dz.m3u8$订阅源
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源
-CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$订阅源-IPv6
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$订阅源-IPv6
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6
+CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 周星馳电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源
 庆余年,http://rihou.cc:555/huyad.php?id=11352960$订阅源
+豆瓣高分,http://epg.112114.eu.org/douyu/8770422$订阅源
+漫威影院,http://epg.112114.eu.org/douyu/6140589$订阅源
+特辑电影,http://epg.112114.eu.org/douyu/3637778$订阅源
 
 历年春晚,#genre#
