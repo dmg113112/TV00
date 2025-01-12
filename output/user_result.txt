@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-12 18:21:47,url
+2025-01-13 06:28:26,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -312,7 +312,7 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 湖北卫视,http://60.2.190.206:4000/rtp/239.253.92.210:6567$组播源
 湖北卫视,http://221.219.79.161:4000/rtp/239.3.1.138:8044$组播源
 湖北卫视,http://114.252.238.87:8000/rtp/239.3.1.138:8044$组播源
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564$组播源
+湖北卫视,http://221.222.162.206:8888/rtp/239.3.1.138:8044$组播源
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 安徽卫视,http://220.249.114.102:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 安徽卫视,http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -531,6 +531,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$订阅源
+八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst$订阅源
 
 影视频道,#genre#
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -542,8 +543,5 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 周星馳电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源
 庆余年,http://rihou.cc:555/huyad.php?id=11352960$订阅源
-豆瓣高分,http://epg.112114.eu.org/douyu/8770422$订阅源
-漫威影院,http://epg.112114.eu.org/douyu/6140589$订阅源
-特辑电影,http://epg.112114.eu.org/douyu/3637778$订阅源
 
 历年春晚,#genre#

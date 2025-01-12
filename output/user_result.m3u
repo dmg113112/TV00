@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-12 18:21:47" tvg-logo="https://live.fanmingming.com/tv/2025-01-12 18:21:47.png" group-title="更新时间",2025-01-12 18:21:47
+#EXTINF:-1 tvg-name="2025-01-13 06:28:26" tvg-logo="https://live.fanmingming.com/tv/2025-01-13 06:28:26.png" group-title="更新时间",2025-01-13 06:28:26
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -620,7 +620,7 @@ http://221.219.79.161:4000/rtp/239.3.1.138:8044$组播源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://114.252.238.87:8000/rtp/239.3.1.138:8044$组播源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://www.745612.xyz:7788/rtp/235.254.198.72:1564$组播源
+http://221.222.162.206:8888/rtp/239.3.1.138:8044$组播源
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -1053,6 +1053,8 @@ http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.com/tv/八大第一.png" group-title="港·澳·台",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.com/tv/八大第一.png" group-title="港·澳·台",八大第一
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
@@ -1071,9 +1073,3 @@ http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/庆余年.png" group-title="影视频道",庆余年
 http://rihou.cc:555/huyad.php?id=11352960$订阅源
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分.png" group-title="影视频道",豆瓣高分
-http://epg.112114.eu.org/douyu/8770422$订阅源
-#EXTINF:-1 tvg-name="漫威影院" tvg-logo="https://live.fanmingming.com/tv/漫威影院.png" group-title="影视频道",漫威影院
-http://epg.112114.eu.org/douyu/6140589$订阅源
-#EXTINF:-1 tvg-name="特辑电影" tvg-logo="https://live.fanmingming.com/tv/特辑电影.png" group-title="影视频道",特辑电影
-http://epg.112114.eu.org/douyu/3637778$订阅源
