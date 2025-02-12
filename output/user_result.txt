@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-12 06:25:48,url
+2025-02-12 18:20:07,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://218.24.193.146:808/rtp/232.0.0.27:1234$组播源
@@ -512,9 +512,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源-1920
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ$订阅源
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e$订阅源
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076$订阅源
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$订阅源
+八大第一,http://211.75.171.121:8519/http/61.67.128.137:8081/hls/66/808/ch22.m3u8$订阅源
+八大第一,http://211.75.171.121:8597/http/61.67.128.137:8088/hls/66/808/ch022.m3u8$订阅源
 
 影视频道,#genre#
 CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$订阅源
@@ -526,11 +526,9 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 周星馳电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源
 庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960$订阅源
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519$订阅源
-邵氏影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/4246519rQqvCVqbw_4000.xs?wsAuth=ce75f6cd957b292b7be9ebd25530dee9&token=web-h5-0-4246519-126295b0785b4fb54b77a0f6e5d0d2962fd9dac31912c9da&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701$订阅源
 吃米滴虫,http://zzy789.xyz/douyu1.php?id=315457$订阅源
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422$订阅源
 漫威影院,http://epg.112114.eu.org/douyu/6140589$订阅源
-漫威影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct$订阅源
 特辑电影,http://epg.112114.eu.org/douyu/3637778$订阅源
 凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142$订阅源
 
