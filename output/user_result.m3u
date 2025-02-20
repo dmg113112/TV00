@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-20 06:25:55" tvg-logo="https://live.fanmingming.com/tv/2025-02-20 06:25:55.png" group-title="更新时间",2025-02-20 06:25:55
+#EXTINF:-1 tvg-name="2025-02-20 18:18:47" tvg-logo="https://live.fanmingming.com/tv/2025-02-20 18:18:47.png" group-title="更新时间",2025-02-20 18:18:47
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -921,6 +921,8 @@ http://zzy789.xyz/douyu1.php?id=4246519$订阅源
 http://zzy789.xyz/douyu1.php?id=315457$订阅源
 #EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分.png" group-title="影视频道",豆瓣高分
 http://zzy789.xyz/douyu1.php?id=8770422$订阅源
+#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="https://live.fanmingming.com/tv/恐怖电影.png" group-title="影视频道",恐怖电影
+http://114.55.117.163:18086/yy/24066336?sign=bf9806&token=6740sbdswgd35t9u$订阅源
 #EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.com/tv/凌儿影院.png" group-title="影视频道",凌儿影院
 http://zzy789.xyz/douyu1.php?id=1377142$订阅源
 #EXTINF:-1 tvg-name="1983年" tvg-logo="https://live.fanmingming.com/tv/1983年.png" group-title="历年春晚",1983年
