@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-16 18:15:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-05-17 06:13:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -483,6 +483,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
+西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
@@ -529,12 +530,12 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -557,8 +558,8 @@ CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/8
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-28.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-31.m3u8
 贝爷1厅,https://www.goodiptv.club/douyu/252802
 贝爷2厅,https://www.goodiptv.club/douyu/36337
 贝爷4厅,https://www.goodiptv.club/douyu/4332
