@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-21 18:14:54,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-05-22 06:13:09,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -12,8 +12,9 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-8,http://119.32.12.17:2901/udp/224.1.100.86:11111
-CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
+CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
+CCTV-9,http://112.46.85.60:8009/hls/509/index.m3u8
 CCTV-10,http://119.32.12.17:2901/udp/224.1.100.76:11111
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
@@ -31,17 +32,13 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 黑龙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
-湖南卫视,http://182.150.23.74:808/hls/21/index.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-安徽卫视,http://182.150.23.74:808/hls/25/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://171.15.18.199:8180/TV00000000000000000039@HHZT
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
@@ -49,8 +46,8 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://119.32.12.17:2901/udp/224.1.100.96:11111
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://119.32.12.17:2901/udp/224.1.100.40:11111
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
+深圳卫视,http://119.32.12.17:2901/udp/224.1.100.40:11111
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
@@ -64,6 +61,7 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+新疆卫视,http://1b6467f415.iok.la:9931/tsfile/live/1090_1.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,http://171.15.18.199:8180/TV00000000000000000034@HHZT
 云南卫视,http://119.32.12.17:2901/udp/224.1.100.21:11111
