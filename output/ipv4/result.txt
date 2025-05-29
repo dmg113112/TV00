@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-29 18:15:15,http://119.32.12.17:2901/udp/224.1.100.90:11111
+2025-05-30 06:12:42,http://119.32.12.17:2901/udp/224.1.100.90:11111
 
 央视频道,#genre#
 CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111
@@ -10,8 +10,8 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-8,http://119.32.12.17:2901/udp/224.1.100.86:11111
-CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
+CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-10,http://119.32.12.17:2901/udp/224.1.100.76:11111
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
@@ -21,23 +21,21 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 天津卫视,http://119.32.12.17:2901/udp/224.1.100.62:11111
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-山西卫视,http://112.46.85.60:8009/hls/49/index.m3u8
 陕西卫视,http://171.15.18.199:8180/TV00000000000000000039@HHZT
-陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -47,7 +45,6 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-甘肃卫视,http://112.46.85.60:8009/hls/51/index.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
