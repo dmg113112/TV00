@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dmg113112/TV00/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-05 06:14:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-05 18:17:38
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -55,8 +55,6 @@ https://www.goodiptv.club/douyu/1165374
 https://www.goodiptv.club/douyu/2935323
 #EXTINF:-1 tvg-name="惊悚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/惊悚电影.png" group-title="影视频道",惊悚电影
 https://www.goodiptv.club/douyu/96577
-#EXTINF:-1 tvg-name="华语影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华语影视.png" group-title="影视频道",华语影视
-https://www.goodiptv.club/douyu/3928
 #EXTINF:-1 tvg-name="神乐影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神乐影视.png" group-title="影视频道",神乐影视
 https://www.goodiptv.club/douyu/85894
 #EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冰冰影厅.png" group-title="影视频道",冰冰影厅

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-05 06:14:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-06-05 18:17:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -35,7 +35,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 恐怖鬼怪,https://www.goodiptv.club/douyu/1165374
 童年阴影,https://www.goodiptv.club/douyu/2935323
 惊悚电影,https://www.goodiptv.club/douyu/96577
-华语影视,https://www.goodiptv.club/douyu/3928
 神乐影视,https://www.goodiptv.club/douyu/85894
 冰冰影厅,https://www.goodiptv.club/douyu/74374
 刀刀影院,https://www.goodiptv.club/douyu/747764
