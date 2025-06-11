@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-11 18:14:49,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+2025-06-12 06:13:25,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 
 央视频道,#genre#
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
@@ -19,13 +19,16 @@ CCTV-7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
 CCTV-7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-CCTV-8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
 CCTV-11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
+CCTV-11,http://121.17.146.34:50003/hls/11/index.m3u8
+CCTV-11,http://101.66.194.35:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+CCTV-12,http://58.243.224.242:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12,http://121.17.146.34:50003/hls/12/index.m3u8
 CCTV-13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://119.32.12.17:2901/udp/224.1.100.69:11111
@@ -41,8 +44,8 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
-北京卫视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -58,12 +61,15 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
+贵州卫视,http://121.17.146.34:50003/hls/51/index.m3u8
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://119.32.12.17:2901/udp/224.1.100.15:11111
 河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
+河北卫视,http://121.17.146.34:50003/hls/22/index.m3u8
 河南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
@@ -93,6 +99,7 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://113.195.8.230:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
@@ -113,9 +120,11 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 厦门卫视,http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8
 厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
+厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,http://119.32.12.17:2901/udp/224.1.100.21:11111
+云南卫视,http://58.243.224.242:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
@@ -123,16 +132,17 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
