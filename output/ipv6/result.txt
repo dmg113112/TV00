@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-15 18:14:36,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+2025-06-15 21:40:05,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 
 央视频道,#genre#
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
@@ -29,12 +29,19 @@ CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 卫视频道,#genre#
-山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
+安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
+甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
@@ -49,15 +56,16 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 吉林卫视,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
-甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
 江西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
+康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
+康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
 青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
-安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
@@ -66,11 +74,6 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 三沙卫视,http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
 天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
 西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-厦门卫视,http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
-厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-厦门卫视,http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8
-厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
-厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
@@ -78,14 +81,6 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
-安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
-康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 港·澳·台,#genre#
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
@@ -95,35 +90,3 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-
-影视频道,#genre#
-贝爷1厅,https://www.goodiptv.club/douyu/252802
-贝爷2厅,https://www.goodiptv.club/douyu/36337
-贝爷4厅,https://www.goodiptv.club/douyu/4332
-刘德华电影,https://www.goodiptv.club/douyu/2516864
-好先生,https://www.goodiptv.club/douyu/9650792
-庆余年,https://www.goodiptv.club/douyu/5908256
-吃米滴虫,https://www.goodiptv.club/douyu/315457
-高分电影,https://www.goodiptv.club/douyu/7254536
-豆瓣高分,https://www.goodiptv.club/douyu/8770422
-漫威影院,https://www.goodiptv.club/douyu/6140589
-国产电影,https://www.goodiptv.club/douyu/5423
-喜剧电影,https://www.goodiptv.club/douyu/323876
-恐怖电影,https://www.goodiptv.club/douyu/218859
-恐怖鬼怪,https://www.goodiptv.club/douyu/1165374
-童年阴影,https://www.goodiptv.club/douyu/2935323
-惊悚电影,https://www.goodiptv.club/douyu/96577
-神乐影视,https://www.goodiptv.club/douyu/85894
-冰冰影厅,https://www.goodiptv.club/douyu/74374
-刀刀影院,https://www.goodiptv.club/douyu/747764
-奶虫影院,https://www.goodiptv.club/douyu/263824
-圆子影视,https://www.goodiptv.club/douyu/6566658
-贝贝影视,https://www.goodiptv.club/douyu/431460
-可乐影视,https://www.goodiptv.club/douyu/20415
-下饭神剧,https://www.goodiptv.club/douyu/276200
-古装神剧,https://www.goodiptv.club/douyu/338759
-酒染影视,https://www.goodiptv.club/douyu/7550220
-芊珏影视,https://www.goodiptv.club/douyu/8814650
-国内剧集,https://www.goodiptv.club/douyu/8157860
-国产剧场,https://www.goodiptv.club/douyu/308752
-经典剧集,https://www.goodiptv.club/douyu/2838296
