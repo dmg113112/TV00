@@ -1,24 +1,21 @@
 🕘️更新时间,#genre#
-2025-06-21 18:13:52,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-06-22 06:12:15,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
-CCTV-15,http://1.wcnm.qzz.io:35455/mgtv/673168223.m3u8
+CCTV-14,http://61.138.128.226:19901/tsfile/live/0015_1.m3u8
 CCTV-16,http://115.190.105.236:8123/live/cctv16?token=OK
-CCTV-17,http://124.220.159.96:35455/mgtv/673168256.m3u8
-CCTV-17,http://1.wcnm.qzz.io:35455/mgtv/673168256.m3u8
 
 卫视,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-安徽卫视,http://111.14.181.15:9901/tsfile/live/0130_1.m3u8
+安徽卫视,http://101.66.198.56:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-重庆卫视,http://111.14.181.15:9901/tsfile/live/0142_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -29,29 +26,28 @@ CCTV-17,http://1.wcnm.qzz.io:35455/mgtv/673168256.m3u8
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-湖北卫视,http://124.220.159.96:35455/mgtv/947472496.m3u8
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 黑龙江卫视,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://182.150.23.74:808/hls/18/index.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-青海卫视,http://61.138.128.226:19901/tsfile/live/0140_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://119.32.12.17:2901/udp/224.1.100.50:11111
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-陕西卫视,http://1.wcnm.qzz.io:35455/mgtv/738910838.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+新疆卫视,http://1b6467f415.iok.la:9931/tsfile/live/1090_1.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+西藏卫视,http://1b6467f415.iok.la:9931/tsfile/live/1089_1.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
