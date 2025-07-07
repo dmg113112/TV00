@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-07 18:16:36,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-08 06:14:52,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -10,6 +10,7 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 卫视,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://58.243.224.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
@@ -26,6 +27,7 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://58.221.214.82:9901/tsfile/live/0139_1.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -34,13 +36,14 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
