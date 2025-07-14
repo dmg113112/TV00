@@ -1,21 +1,20 @@
 🕘️更新时间,#genre#
-2025-07-14 18:15:55,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-15 06:13:43,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8
+CCTV-5,http://3501776.xyz:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
-CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 卫视,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
@@ -26,8 +25,8 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
+河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
@@ -45,6 +44,7 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
