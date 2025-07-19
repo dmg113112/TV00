@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-19 18:14:55,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-20 06:13:00,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -30,6 +30,7 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 湖南卫视,http://drive.mxmy.net:8888/udp/239.3.1.132:8012
+湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
