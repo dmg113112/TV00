@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-23 06:14:51,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-07-23 18:16:54,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -13,8 +13,8 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
