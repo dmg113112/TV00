@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2025-08-12 06:13:14,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-12 18:15:44,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
-CCTV-5+,http://111.14.181.15:9901/tsfile/live/0016_1.m3u8
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-15,http://nas.hssvm.com:8888/udp/225.1.1.26:5002
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
@@ -29,12 +27,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 湖南卫视,http://drive.mxmy.net:8888/udp/239.3.1.132:8012
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
-江西卫视,http://111.14.181.15:9901/tsfile/live/0138_1.m3u8
-辽宁卫视,http://111.61.236.247:9081/hls/30/index.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
