@@ -1,14 +1,10 @@
 🕘️更新时间,#genre#
-2025-08-14 06:14:12,http://123.130.84.106:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-08-14 18:15:43,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
-CCTV-3,http://123.130.84.106:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
-CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
