@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-15 06:12:52,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-15 18:15:29,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -18,12 +18,13 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
-广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://101.66.199.251:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
+河北卫视,http://115.48.160.227:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
