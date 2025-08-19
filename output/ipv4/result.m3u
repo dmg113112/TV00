@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dmg113112/TV00/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视"" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视".png" group-title="🕘️更新时间",2025-08-19 18:15:05
+#EXTINF:-1 tvg-name="#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视"" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视".png" group-title="🕘️更新时间",2025-08-20 06:13:06
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -7,6 +7,14 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV-7
 http://drive.mxmy.net:8888/udp/239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8
+http://drive.mxmy.net:8888/udp/239.3.1.175:8001
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8
+http://nas.hssvm.com:8888/udp/225.1.1.196:5002
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV-12
+http://58.221.214.82:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV-12
+http://123.129.70.178:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视",CCTV-16
 http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17
@@ -45,8 +53,6 @@ http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://drive.mxmy.net:8888/udp/239.3.1.138:8044
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://101.66.194.61:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://drive.mxmy.net:8888/udp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视",吉林卫视
@@ -71,6 +77,8 @@ http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视",西藏卫视
+http://36.105.100.208:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视",云南卫视
 http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="卫视",无线新闻台
