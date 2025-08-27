@@ -1,47 +1,44 @@
 🕘️更新时间,#genre#
-2025-08-27 06:14:42,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-27 18:19:52,http://113.57.111.4:1111/tsfile/live/1001_1.m3u8
 
 央视,#genre#
+CCTV-2,http://113.57.111.4:1111/tsfile/live/1001_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-7,http://113.15.109.216:59901/tsfile/live/1002_1.m3u8
-CCTV-13,http://113.15.109.216:59901/tsfile/live/0013_1.m3u8
-CCTV-15,http://113.15.109.216:59901/tsfile/live/0015_1.m3u8
+CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
-CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
+CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
+CCTV-17,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://39.150.96.141:65535/tsfile/live/0122_1.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
-甘肃卫视,http://36.105.100.208:35455/itv/5000000011000031121.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
-河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://60.174.40.117:85/tsfile/live/1034_1.m3u8?key=txiptv
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 湖南卫视,http://drive.mxmy.net:8888/udp/239.3.1.132:8012
-黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://39.150.96.141:65535/tsfile/live/0143_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-宁夏卫视,http://36.105.100.208:35455/itv/1000000002000031451.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
