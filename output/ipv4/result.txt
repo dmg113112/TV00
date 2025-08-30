@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-30 06:12:09,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
+2025-08-30 18:14:35,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 
 央视,#genre#
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
@@ -8,8 +8,8 @@ CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
-CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
+CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 卫视,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
