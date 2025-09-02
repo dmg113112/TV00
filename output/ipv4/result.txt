@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-02 18:15:18,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
+2025-09-03 06:12:26,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 
 央视,#genre#
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
@@ -20,6 +20,7 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
+广东卫视,http://113.26.202.52:1299/tsfile/live/0125_1.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -28,14 +29,18 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
+湖北卫视,http://113.26.202.52:1299/tsfile/live/0132_1.m3u8
 湖南卫视,http://drive.mxmy.net:8888/udp/239.3.1.132:8012
+黑龙江卫视,http://113.26.202.52:1299/tsfile/live/0143_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
