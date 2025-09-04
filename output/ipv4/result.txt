@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-04 06:11:50,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+2025-09-04 18:13:34,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
 
 卫视,#genre#
-安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
