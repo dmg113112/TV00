@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-30 06:13:09,http://111.227.196.164:9901/tsfile/live/0002_1.m3u8
+2025-09-30 18:13:08,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
-CCTV-2,http://111.227.196.164:9901/tsfile/live/0002_1.m3u8
-CCTV-14,http://60.16.0.216:5757/hls/15/index.m3u8
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -14,16 +12,12 @@ CCTV-14,http://60.16.0.216:5757/hls/15/index.m3u8
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-湖南卫视,http://60.16.0.216:5757/hls/21/index.m3u8
-黑龙江卫视,http://111.227.196.164:9901/tsfile/live/0143_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
