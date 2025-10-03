@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-03 06:12:01,http://111.227.196.164:9901/tsfile/live/0009_1.m3u8
+2025-10-03 18:14:03,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
-CCTV-9,http://111.227.196.164:9901/tsfile/live/0009_1.m3u8
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -24,4 +23,3 @@ CCTV-9,http://111.227.196.164:9901/tsfile/live/0009_1.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
