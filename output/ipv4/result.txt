@@ -1,7 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-09 18:13:45,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-10 06:12:21,https://60.191.56.186:8888/hls/15/index.m3u8
 
 央视,#genre#
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
+CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
