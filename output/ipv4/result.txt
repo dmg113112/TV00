@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-13 18:17:50,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-14 06:13:23,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
 
@@ -12,7 +12,9 @@
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+湖南卫视,http://pa.kuangdeng.top:8081/hls/16/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://pa.kuangdeng.top:8081/hls/19/index.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -21,5 +23,6 @@
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+浙江卫视,http://pa.kuangdeng.top:8081/hls/18/index.m3u8
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
