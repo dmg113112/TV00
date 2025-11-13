@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-13 06:12:43,http://dms.yryyj.site:8188/udp/239.76.254.200:9000
+2025-11-13 18:14:48,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
-CCTV-16,http://dms.yryyj.site:8188/udp/239.76.254.200:9000
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
