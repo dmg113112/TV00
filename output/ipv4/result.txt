@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2025-11-20 06:12:36,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-11-20 18:14:56,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
