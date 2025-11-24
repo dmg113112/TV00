@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-24 06:11:59,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-11-24 18:15:08,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
 
@@ -13,7 +13,6 @@
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://223.241.247.214:9901/tsfile/live/1008_1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
