@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-05 18:14:27,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
+2025-12-06 06:12:15,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 央视,#genre#
-CCTV-6,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
 
 卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
